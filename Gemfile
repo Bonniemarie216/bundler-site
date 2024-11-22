@@ -12,7 +12,7 @@ gem "middleman-syntax"
 ## Template engines
 gem "builder"
 gem "haml", "~> 5.2.2"
-gem "kramdown"
+gem "kramdown", ">= 2.5.1"
 
 # Rake tasks
 gem "rake"
